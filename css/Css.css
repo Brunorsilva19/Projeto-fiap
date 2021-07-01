@@ -1,0 +1,212 @@
+      body {
+          background: black;
+          background-repeat: no-repeat;
+          min-height: 100vh;
+          min-width: 100vw;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+      }
+      
+      main.container {
+          background: black;
+          max-width: 350px;
+          min-height: 40vh;
+          padding: 2rem;
+          box-shadow: 5px 5px 15px rgb(red, green, blue);
+          border-radius: 8px;
+      }
+      
+      #login {
+          color: white;
+          font: arial black;
+      }
+      
+      #senha {
+          color: white;
+          font: arial black;
+      }
+      
+      #telalogin {
+          background: black;
+          width: 350px;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+      }
+      
+      #text {
+          color: white;
+      }
+      
+      main h1 {
+          align-items: center;
+          position: absolute;
+          top: -15%;
+          left: 50%;
+          transform: translate(-50%, 30%);
+          display: flex;
+          justify-content: center;
+          width: 50vw;
+          color: white;
+      }
+      
+      #Entrar {
+          align-items: right;
+          position: absolute;
+          top: 100%;
+          left: 55%;
+          transform: translate(60%, -50%);
+      }
+      
+      #Cadastramento {
+          background: black;
+          width: 350px;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%)
+      }
+      
+      #Voltar {
+          align-items: right;
+          position: absolute;
+          top: 100%;
+          right: 55%;
+          transform: translate(-60%, -50%);
+      }
+      
+      #Esqueceusenha {
+          background: black;
+          width: 350px;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+      }
+      
+      #Esqueceu {
+          width: 350px;
+          position: absolute;
+          top: -200%;
+          left: 50%;
+          transform: translate(-50%, -50%)
+      }
+      
+      #Enviar {
+          align-items: right;
+          position: absolute;
+          top: -110%;
+          right: -10%;
+          transform: translate(-40%, -40%);
+      }
+      
+      #Anterior {
+          align-items: left;
+          position: absolute;
+          top: -110%;
+          right: 60%;
+          transform: translate(-60%, -40%);
+      }
+      
+      #icone {
+          color: red;
+          width: 40px;
+          height: 40px;
+          align-items: right;
+          position: absolute;
+          top: 70%;
+          left: 50%;
+          transform: translate(-40%, 80%);
+      }
+      
+      #what {
+          color: cyan;
+          width: 40px;
+          height: 40px;
+          align-items: left;
+          position: absolute;
+          top: -30%;
+          right: 90%;
+          transform: translate(-60%, -40%);
+      }
+      
+      #alarme {
+          color: cyan;
+          width: 40px;
+          height: 40px;
+          align-items: left;
+          position: absolute;
+          top: -50%;
+          right: 90%;
+          transform: translate(-60%, -80%);
+      }
+      
+      #Pacote {
+          color: darkblue;
+          width: 400px;
+          height: 40px;
+          align-items: right;
+          position: absolute;
+          top: 140%;
+          left: 50%;
+          transform: translate(-50%, -40%);
+      }
+      
+      #Alimentação {
+          color: darkblue;
+          width: 400px;
+          height: 40px;
+          align-items: right;
+          position: absolute;
+          top: 160%;
+          left: 50%;
+          transform: translate(-50%, -20%);
+      }
+      
+      #Adicionar {
+          color: darkblue;
+          width: 400px;
+          height: 40px;
+          align-items: right;
+          position: absolute;
+          top: 180%;
+          left: 50%;
+          transform: translate(-50%, 0%);
+      }
+      
+      main h2 {
+          align-items: center;
+          position: absolute;
+          top: 8%;
+          left: 50%;
+          transform: translate(-50%, 30%);
+          display: flex;
+          justify-content: center;
+          width: 50vw;
+          color: skyblue;
+      }
+      
+      #Sair {
+          color: darkblue;
+          width: 80px;
+          height: 40px;
+          align-items: right;
+          position: absolute;
+          top: -60%;
+          left: 60%;
+          transform: translate(60%, -40%);
+      }
+      
+      main h3 {
+          align-items: center;
+          position: absolute;
+          top: -250%;
+          left: 50%;
+          transform: translate(-50%, -150%);
+          display: flex;
+          justify-content: center;
+          width: 50vw;
+          color: white;
+      }
